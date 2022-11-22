@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Zack Gilbert -- Co-Founder -- @zackgilbert
+		Mark Bertrand -- Co-Founder -- @marksbertrand
+
+# THANKS
+
+    Kelsey Kreiling -- @kelseylk -- for our wonderful logo
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Normalize.css, jQuery, Modernizr
